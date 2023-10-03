@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ckids-datafest.github.io/template-project-website/sitemap.xml
