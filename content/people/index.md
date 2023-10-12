@@ -1,8 +1,8 @@
 ## Mentors
 * Najmedin Meshkati <meshkati@usc.edu>	
 * Daniel Scalese <scalese@usc.edu>	
-* Yolanda Gil <gil@isi.edu>	
-* Ulf Hermjakob <ulf@isi.edu>	
+* Yolanda Gil <gil@isi.edu>	(Researcher at USC Information Science Institute; director of Data Science program at USC)
+* Ulf Hermjakob <ulf@isi.edu>	(Researcher at USC Information Science Institute; Expertise: NLP)
 
 ## Students
 * Mino Cha <minoc@usc.edu>
