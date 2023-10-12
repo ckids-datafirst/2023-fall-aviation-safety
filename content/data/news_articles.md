@@ -7,4 +7,4 @@
   * Location: Austin, TX
   * Date: Saturday, February 4, 2023, at 6:40am
   * 50 feet between arriving (Boeing 767-300, FedEx cargo) and departing plane (Boeing 737, Southwest Flight 708 to Cancun, 128 people onboard) on runway 
-  * Causes: understaffed controller team, controller fatigue, low visibility due to weather, lack of ground radar
+  * Causes: understaffed controller team, controller fatigue, very low visibility due to weather, lack of ground radar
