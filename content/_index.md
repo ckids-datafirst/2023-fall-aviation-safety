@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Application of AI, ML and NLP in understanding and preventing a serious aviation safety problem in the US - Runway Safety
+        Application of NLP to understand and prevent runway safety problems in the US
       image:
         filename: welcome.jpg
       text: |
@@ -16,7 +16,7 @@ sections:
 
         This project builds on the work of a [previous DataFirst project](https://ckids-datafirst.github.io/website/projects/2023-spring/810/).
 
-        Our data science project endeavors to tackle [Apply AI, ML and NLP in understanding and prevent serious aviation safety problem in the US - Runway Safety]. Our motivation to address this problem stems from [a New York Times article which mentions series of Air Traffic Control lapses that nearly kills 131 people](https://www.nytimes.com/2023/10/11/business/air-traffic-control-austin-airport-fedex-southwest.html). This project has a potential to save thousands of lives if deployed in busiest airsapces across the world.
+        Our data science project endeavors to apply AI, ML and NLP in understanding and prevent serious aviation safety problem in the US - Runway Safety]. Our motivation to address this problem stems from [a New York Times article which mentions series of Air Traffic Control lapses that nearly kills 131 people](https://www.nytimes.com/2023/10/11/business/air-traffic-control-austin-airport-fedex-southwest.html). This project has a potential to save thousands of lives if deployed in busiest airsapces across the world.
 
     design:
       columns: "1"
