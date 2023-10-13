@@ -1,3 +1,9 @@
+# Aviation Safety quick links
+
+[Google Drive](https://drive.google.com/drive/folders/1f5nyITvNdVMjOEdpDzEgl7SLoVs19KiH?usp=sharing),
+[Group members](content/people/index.md),
+[News articles](content/data/news_articles.md)
+
 # [CDISK Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
 The **CDISK Group Template** empowers your research group to easily create a beautiful website with a stunning project.
