@@ -3,6 +3,7 @@
 [Google Drive](https://drive.google.com/drive/folders/1f5nyITvNdVMjOEdpDzEgl7SLoVs19KiH?usp=sharing),
 [Group members](content/people/index.md),
 [News articles](content/data/news_articles.md)
+[Midterm Poster](https://www.figma.com/file/YZWJiJsIWH12iOWc6gcq9Q/DataFirst-Midterm-Poster?type=design&mode=design&t=RC34mg9gF9ryLnu6-1)
 
 # [CDISK Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
