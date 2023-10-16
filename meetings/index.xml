@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Meetings | Team name</title><link>https://ckids-datafest.github.io/template-project-website/meetings/</link><atom:link href="https://ckids-datafest.github.io/template-project-website/meetings/index.xml" rel="self" type="application/rss+xml"/><description>Meetings</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://ckids-datafest.github.io/template-project-website/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Meetings</title><link>https://ckids-datafest.github.io/template-project-website/meetings/</link></image><item><title/><link>https://ckids-datafest.github.io/template-project-website/meetings/minutes_of_meeting_10_12_2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafest.github.io/template-project-website/meetings/minutes_of_meeting_10_12_2023/</guid><description>&lt;h2 id="points-discussed-in-the-meeting">Points discussed in the meeting:&lt;/h2>
+&lt;ol>
+&lt;li>Upload data and other useful materials to the github repository for the professors to review&lt;/li>
+&lt;li>Focus of Incursions - A classifier model for human errors like confusion, fatigue, etc can be designed which can then be tackled by the Federal Aviation Administration. Hint: To classify the data, we can check for keywords like fatigue, extra hours etc. which are related to &amp;ldquo;overtime&amp;rdquo; in the Narrative column of the ASRS dataset.&lt;/li>
+&lt;li>Data Doubts:
+&lt;ul>
+&lt;li>&amp;lsquo;Weather Element/Visibility&amp;rsquo; Numeric Value Meaning
+Ans: The numeric value denotes visibility in miles.&lt;/li>
+&lt;li>&amp;lsquo;Ceiling&amp;rsquo; value meaning and usefulness? 0- completely fogged.
+Ans: More the ceiling (height of the clouds), the better is the visibility.&lt;/li>
+&lt;li>&amp;lsquo;Flight Phase&amp;rsquo; with multiple phases, eg: Parked; Landing; Landing, etc
+Ans: They represent the different stages that the plane went through in during the incident. Some cells have redundant stages.&lt;/li>
+&lt;li>&amp;lsquo;Operating Under FAR Part&amp;rsquo; meaning?
+Ans: The Federal Aviation Regulations (FARs) are rules prescribed by the Federal Aviation Administration (FAA) governing all aviation activities in the United States.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Check out the power point presentation that was presented at an ASRS meeting and has 4 factors to identify the incursions. It was shared to us by Prof. Najmedin earlier in the emails.&lt;/li>
+&lt;li>The team can get an award if everyone does a good job and wins the International Society of Air Safety Investigators (ISASI) conference. This year it will be held at Lisbon, Portugal.&lt;/li>
+&lt;li>Update the project website with the current work done.&lt;/li>
+&lt;/ol>
+&lt;h2 id="important-links">Important Links:&lt;/h2>
+&lt;ol>
+&lt;li>ASRS General Report Form: &lt;a href="">https://asrs.arc.nasa.gov/docs/general.pdf&lt;/a>&lt;/li>
+&lt;li>ATSAP Resources: &lt;a href="">https://www.atsapsafety.org/&lt;/a>&lt;/li>
+&lt;li>DataFirst Website: &lt;a href="">https://ckids-datafirst.github.io/website/editions/2023-fall/&lt;/a>&lt;/li>
+&lt;li>GitHub Austin incident: &lt;a href="">https://github.com/ckids-datafirst/2023-fall-aviation-safety/blob/main/content/data/news_articles.md&lt;/a>&lt;/li>
+&lt;li>GitHub Aviation Safety GitHub Repository: &lt;a href="">https://github.com/ckids-datafirst/2023-fall-aviation-safety&lt;/a>&lt;/li>
+&lt;/ol></description></item></channel></rss>

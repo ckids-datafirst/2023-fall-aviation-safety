@@ -40,7 +40,34 @@
 &lt;p>Discuss any unexpected results, and potential explanations.&lt;/p>
 &lt;p>Enumerate (ideally in bullets) the most important findings, and their impact on your project goals.&lt;/p>
 &lt;h2 id="limitations-and-future-work">Limitations and Future Work&lt;/h2>
-&lt;p>Discuss any limitations of the work to date, how these limitations could be addressed in future work. Discuss what lines of work are most promising given the understanding of the problem and the data gained throughout the project.&lt;/p></description></item><item><title/><link>https://ckids-datafest.github.io/template-project-website/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafest.github.io/template-project-website/people/</guid><description>&lt;h2 id="mentors">Mentors&lt;/h2>
+&lt;p>Discuss any limitations of the work to date, how these limitations could be addressed in future work. Discuss what lines of work are most promising given the understanding of the problem and the data gained throughout the project.&lt;/p></description></item><item><title/><link>https://ckids-datafest.github.io/template-project-website/meetings/minutes_of_meeting_10_12_2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafest.github.io/template-project-website/meetings/minutes_of_meeting_10_12_2023/</guid><description>&lt;h2 id="points-discussed-in-the-meeting">Points discussed in the meeting:&lt;/h2>
+&lt;ol>
+&lt;li>Upload data and other useful materials to the github repository for the professors to review&lt;/li>
+&lt;li>Focus of Incursions - A classifier model for human errors like confusion, fatigue, etc can be designed which can then be tackled by the Federal Aviation Administration. Hint: To classify the data, we can check for keywords like fatigue, extra hours etc. which are related to &amp;ldquo;overtime&amp;rdquo; in the Narrative column of the ASRS dataset.&lt;/li>
+&lt;li>Data Doubts:
+&lt;ul>
+&lt;li>&amp;lsquo;Weather Element/Visibility&amp;rsquo; Numeric Value Meaning
+Ans: The numeric value denotes visibility in miles.&lt;/li>
+&lt;li>&amp;lsquo;Ceiling&amp;rsquo; value meaning and usefulness? 0- completely fogged.
+Ans: More the ceiling (height of the clouds), the better is the visibility.&lt;/li>
+&lt;li>&amp;lsquo;Flight Phase&amp;rsquo; with multiple phases, eg: Parked; Landing; Landing, etc
+Ans: They represent the different stages that the plane went through in during the incident. Some cells have redundant stages.&lt;/li>
+&lt;li>&amp;lsquo;Operating Under FAR Part&amp;rsquo; meaning?
+Ans: The Federal Aviation Regulations (FARs) are rules prescribed by the Federal Aviation Administration (FAA) governing all aviation activities in the United States.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Check out the power point presentation that was presented at an ASRS meeting and has 4 factors to identify the incursions. It was shared to us by Prof. Najmedin earlier in the emails.&lt;/li>
+&lt;li>The team can get an award if everyone does a good job and wins the International Society of Air Safety Investigators (ISASI) conference. This year it will be held at Lisbon, Portugal.&lt;/li>
+&lt;li>Update the project website with the current work done.&lt;/li>
+&lt;/ol>
+&lt;h2 id="important-links">Important Links:&lt;/h2>
+&lt;ol>
+&lt;li>ASRS General Report Form: &lt;a href="">https://asrs.arc.nasa.gov/docs/general.pdf&lt;/a>&lt;/li>
+&lt;li>ATSAP Resources: &lt;a href="">https://www.atsapsafety.org/&lt;/a>&lt;/li>
+&lt;li>DataFirst Website: &lt;a href="">https://ckids-datafirst.github.io/website/editions/2023-fall/&lt;/a>&lt;/li>
+&lt;li>GitHub Austin incident: &lt;a href="">https://github.com/ckids-datafirst/2023-fall-aviation-safety/blob/main/content/data/news_articles.md&lt;/a>&lt;/li>
+&lt;li>GitHub Aviation Safety GitHub Repository: &lt;a href="">https://github.com/ckids-datafirst/2023-fall-aviation-safety&lt;/a>&lt;/li>
+&lt;/ol></description></item><item><title/><link>https://ckids-datafest.github.io/template-project-website/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafest.github.io/template-project-website/people/</guid><description>&lt;h2 id="mentors">Mentors&lt;/h2>
 &lt;ul>
 &lt;li>Najmedin Meshkati &lt;a href="mailto:meshkati@usc.edu">meshkati@usc.edu&lt;/a>&lt;/li>
 &lt;li>Daniel Scalese &lt;a href="mailto:scalese@usc.edu">scalese@usc.edu&lt;/a>&lt;/li>
