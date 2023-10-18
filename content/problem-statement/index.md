@@ -38,6 +38,8 @@ If we treat the data as supervised data and divide it into train and test. The p
 
 The end user for this system could be the Federal Aviation Administration, this system could help them in policy framing. After certain modifications, airlines could use it internally for incident report generation and problem-solving.
 
+![Use case diagram](/content/images/usecasediagram.png)
+
 ## Desired Outcomes and Benefits
 
 Given the timeframe of one semester, we find it realistic to focus on a particular type of incident and study it in detail, therefore we intend to focus on runway incursions and identify the fracture points in the system.

@@ -28,7 +28,11 @@ We used python libraries pandas, numpy and matplotlib for exploratory data analy
 
 ## Model Development
 
+![Method Architecture](/content/images/methodarchdiagram.png)
+
+
 To be updated as we progress
+
 Describe the algorithms, methodology, and architectures used to generate models.  Discuss how models were generated, seeded, and improved.  Show the libraries and frameworks used for model development, as well as the rationale behind those choices.
 
 ## Model Evaluation
