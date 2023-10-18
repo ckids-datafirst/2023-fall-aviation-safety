@@ -10,6 +10,8 @@ This page contains key sections of the **Final Report** for the project focused 
 
 ## System and Model Performance
 
+To be updated as we progress
+
 Show the performance of the best system and model(s) developed, showing clearly the performance metrics and improvements over the baseline system as appropriate.  Create visualizations that show clearly these results.
 
 ## Discussion of Findings
@@ -23,5 +25,8 @@ CA, TX and FL have very high number of incursions.
 
 
 ## Limitations and Future Work
+
+
+To be updated as we progress
 
 Discuss any limitations of the work to date, how these limitations could be addressed in future work.  Discuss what lines of work are most promising given the understanding of the problem and the data gained throughout the project.
