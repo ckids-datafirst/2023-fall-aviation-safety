@@ -31,8 +31,8 @@ The most challenging part of the dataset is the narrative. The narrative is a de
 
 Including a visualization is a simple way to show something interesting about the data.  Perhaps the visualizations could simply highlight the size, distribution, and other simple statistical characteristics of the data.
 
-![Number of incidents regarding light](https://imgur.com/YUerqmA)
+![Number of incidents regarding light](/content/images/noofcases.png)
 
-![Number of primary problems](https://imgur.com/2QSREdQ)
+![Number of primary problems](/content/images/numberofproblems.png)
 
-![Top 50 airports with most cases](https://imgur.com/mh9Q15O)
+![Top 50 airports with most cases](/content/images/noofincidents.png)
