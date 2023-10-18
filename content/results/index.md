@@ -14,11 +14,13 @@ Show the performance of the best system and model(s) developed, showing clearly 
 
 ## Discussion of Findings
 
-Offer a discussion of the main findings using the system developed. Put the results in the context of the original problem statement and the questions that were posed.
+* Words such as aircraft, runway, approach, landing, light, taxi, etc. occur more frequently.
 
-Discuss any unexpected results, and potential explanations.
+* Incursion accidents mostly happen on-ground during taxi, initial approach or landing
+CA, TX and FL have very high number of incursions.
 
-Enumerate (ideally in bullets) the most important findings, and their impact on your project goals.
+* Human Factors and Aircraft Issues are the leading primary causes of most incursions
+
 
 ## Limitations and Future Work
 
