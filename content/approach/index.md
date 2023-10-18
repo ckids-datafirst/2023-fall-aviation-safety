@@ -10,20 +10,28 @@ This page contains key sections of the **Final Report** for the project focused 
 
 ## Data Quality
 
-Describe any steps that were used to address any issues concerning the quality of the data.  This may include collecting data quality metrics, discarding subsets of the data, or applying specific techniques for handling missing values, dealing with outliers, etc. 
+The data initially sourced from ASRS contains more than 46,000 rows and 120 columns of data. Upon visual and statistical analysis it is realised that the data contains multiple duplicate columns and many columns contain negligible data these have to be cleaned. The narrative wherein the anonymous reporter explains an incident doe not use aviation english always. For instance flight, aircraft, and airplane is used to describe the same object. Therefore the model has to be trained in accordance with varying parameters or the dataset has to be cleaned substantially. 
 
 ## Data Preprocessing
 
-Describe the steps taken to preprocess the raw data to prepare it for analysis. This may include data transformations to convert to a required format, feature engineering operations, encoding features as binary, etc.
+The data preprocessing involved the following tasks conversion of all characters to lowercase, stop word removal : specific stops words for aviation ( like aircraft), lemmatization/ stemming/ Tokenization, expand contractions.
 
 ## Exploratory Data Analysis (EDA)
 
-Discuss any techniques employed to gain insights into the data. This could include data visualizations, generating summary statistics, initial analysis, and other exploratory techniques used to understand the data distributions, features, and helpful patterns.
+We used python libraries pandas, numpy and matplotlib for exploratory data analysis of the ASRS dataset.
+
+![Number of incidents regarding light](/content/images/noofcases.png)
+
+![Number of primary problems](/content/images/numberofproblems.png)
+
+![Top 50 airports with most cases](/content/images/noofincidents.png)
 
 ## Model Development
 
+To be updated as we progress
 Describe the algorithms, methodology, and architectures used to generate models.  Discuss how models were generated, seeded, and improved.  Show the libraries and frameworks used for model development, as well as the rationale behind those choices.
 
 ## Model Evaluation
 
+To be updated as we progress
 Discuss the evaluation metrics used to assess model performance, and justify those choices based on the problem that the project is addressing. Describe the evaluation techniques used, such as cross-validation, and how undesirable model behaviors, such as overfitting, were avoided.
