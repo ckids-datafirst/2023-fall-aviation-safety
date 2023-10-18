@@ -79,6 +79,7 @@ To improve aviation safety through the analysis of NASA’s ASRS data.&lt;/li>
 &lt;h2 id="desired-outcomes-and-benefits">Desired Outcomes and Benefits&lt;/h2>
 &lt;p>Given the timeframe of one semester, we find it realistic to focus on a particular type of incident and study it in detail, therefore we intend to focus on runway incursions and identify the fracture points in the system.&lt;/p></description></item><item><title>Results</title><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/results/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/results/</guid><description>&lt;p>This page contains key sections of the &lt;strong>Final Report&lt;/strong> for the project focused on results to date. It should be no more than 2 pages long. An initial draft can be created at any point during the project, and can be refined as the project progresses.&lt;/p>
 &lt;h2 id="system-and-model-performance">System and Model Performance&lt;/h2>
+&lt;p>To be updated as we progress&lt;/p>
 &lt;p>Show the performance of the best system and model(s) developed, showing clearly the performance metrics and improvements over the baseline system as appropriate. Create visualizations that show clearly these results.&lt;/p>
 &lt;h2 id="discussion-of-findings">Discussion of Findings&lt;/h2>
 &lt;ul>
@@ -94,6 +95,7 @@ CA, TX and FL have very high number of incursions.&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="limitations-and-future-work">Limitations and Future Work&lt;/h2>
+&lt;p>To be updated as we progress&lt;/p>
 &lt;p>Discuss any limitations of the work to date, how these limitations could be addressed in future work. Discuss what lines of work are most promising given the understanding of the problem and the data gained throughout the project.&lt;/p></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/minutes_of_meeting_10_12_2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/minutes_of_meeting_10_12_2023/</guid><description>&lt;h2 id="points-discussed-in-the-meeting">Points discussed in the meeting:&lt;/h2>
 &lt;ol>
 &lt;li>Upload data and other useful materials to the github repository for the professors to review&lt;/li>
