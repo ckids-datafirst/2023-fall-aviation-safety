@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Team name # Website name
-baseURL: "https://ckids-datafest.github.io/template-project-website" # Website URL
+title: Aviation Safety Project # Website name
+baseURL: "https://ckids-datafirst.github.io/2023-fall-aviation-safety/" # Website URL
 
 ############################
 ## LANGUAGE
