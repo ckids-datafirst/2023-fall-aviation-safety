@@ -24,8 +24,14 @@
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;h2 id="model-development">Model Development&lt;/h2>
-&lt;p>To be updated as we progress
-Describe the algorithms, methodology, and architectures used to generate models. Discuss how models were generated, seeded, and improved. Show the libraries and frameworks used for model development, as well as the rationale behind those choices.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://ckids-datafirst.github.io/2023-fall-aviation-safety/content/images/methodarchdiagram.png" alt="Method Architecture" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>To be updated as we progress&lt;/p>
+&lt;p>Describe the algorithms, methodology, and architectures used to generate models. Discuss how models were generated, seeded, and improved. Show the libraries and frameworks used for model development, as well as the rationale behind those choices.&lt;/p>
 &lt;h2 id="model-evaluation">Model Evaluation&lt;/h2>
 &lt;p>To be updated as we progress
 Discuss the evaluation metrics used to assess model performance, and justify those choices based on the problem that the project is addressing. Describe the evaluation techniques used, such as cross-validation, and how undesirable model behaviors, such as overfitting, were avoided.&lt;/p></description></item><item><title>Data Assessment</title><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/data/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/data/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
@@ -76,6 +82,12 @@ To improve aviation safety through the analysis of NASA’s ASRS data.&lt;/li>
 &lt;p>If we treat the data as supervised data and divide it into train and test. The primary problem can be treated as a label. Post this divide we intend to run correlation analysis and feature extraction algorithms like principle component analysis, and linear discriminant analysis. Word2vec or term frequency-inverse document frequency (tf-idf) to make narratives into features. Train data over a neural network and test it over a sample set to gauge the accuracy.&lt;/p>
 &lt;h2 id="use-case-scenario">Use Case Scenario&lt;/h2>
 &lt;p>The end user for this system could be the Federal Aviation Administration, this system could help them in policy framing. After certain modifications, airlines could use it internally for incident report generation and problem-solving.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://ckids-datafirst.github.io/2023-fall-aviation-safety/content/images/usecasediagram.png" alt="Use case diagram" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;h2 id="desired-outcomes-and-benefits">Desired Outcomes and Benefits&lt;/h2>
 &lt;p>Given the timeframe of one semester, we find it realistic to focus on a particular type of incident and study it in detail, therefore we intend to focus on runway incursions and identify the fracture points in the system.&lt;/p></description></item><item><title>Results</title><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/results/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/results/</guid><description>&lt;p>This page contains key sections of the &lt;strong>Final Report&lt;/strong> for the project focused on results to date. It should be no more than 2 pages long. An initial draft can be created at any point during the project, and can be refined as the project progresses.&lt;/p>
 &lt;h2 id="system-and-model-performance">System and Model Performance&lt;/h2>
