@@ -5,6 +5,48 @@
 &lt;li>Future applications - many organizations have databases - &amp;rsquo;lessons learnt'.&lt;/li>
 &lt;li>Southwest fedex runway incursion animation Austin Texas&lt;/li>
 &lt;li>Learn a little about aviation safety&lt;/li>
+&lt;/ul></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_09_28_2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_09_28_2023/</guid><description>&lt;h2 id="approach">Approach&lt;/h2>
+&lt;ol>
+&lt;li>Come up with different procedures and discuss with Prof. Meshkati&lt;/li>
+&lt;li>Check in the database if we have different accounts/reports about the same incident&lt;/li>
+&lt;li>Event extraction techniques - work on narrative for text extraction. Our case - events and states of parties involved. Take out facts in a chronological manner. Play by play.&lt;/li>
+&lt;li>What was supposed to happen ideally and what did happen in the situation.&lt;/li>
+&lt;li>Keep a base assumption that the data narrative that we have is as close to the truth as possible.&lt;/li>
+&lt;li>Use of sentiment analysis for narrative.&lt;/li>
+&lt;/ol>
+&lt;h2 id="baseline-system-imp">Baseline system: (IMP)&lt;/h2>
+&lt;ul>
+&lt;li>1 week&lt;/li>
+&lt;li>An initial instant short brief model of the large project.&lt;/li>
+&lt;/ul>
+&lt;h2 id="cause-of-increase-in-number-of-reports">Cause of increase in number of reports:&lt;/h2>
+&lt;ul>
+&lt;li>Increase in number of flights - increase in air traffic&lt;/li>
+&lt;li>Increase in pressure to report more incidents&lt;/li>
+&lt;/ul>
+&lt;h2 id="goals">Goals:&lt;/h2>
+&lt;ol>
+&lt;li>Understand the ins and outs of the dataset&lt;/li>
+&lt;li>Data assessment document&lt;/li>
+&lt;li>Get a list of which fields can take what entries&lt;/li>
+&lt;li>Is it organized and limited number of values&lt;/li>
+&lt;li>Know what the data has and what we can actually figure out using it&lt;/li>
+&lt;li>Get some numbers and figures on each feature&lt;/li>
+&lt;li>Understand and explain the data challenges&lt;/li>
+&lt;li>Objective is not very clearly defined&lt;/li>
+&lt;li>Articulate an initial problem statement/recruitment document based on our dataset&lt;/li>
+&lt;li>Maybe look at additional external data sources&lt;/li>
+&lt;li>Understand and elaborate on all features&lt;/li>
+&lt;li>If something is missing that should ideally be present, make a note. It can be added to the system as a formal suggestion. (Potential extra result of the project)&lt;/li>
+&lt;/ol>
+&lt;h2 id="end-result-expectations">End Result Expectations:&lt;/h2>
+&lt;ul>
+&lt;li>Finding reasons and conditions that lead to incursions&lt;/li>
+&lt;/ul>
+&lt;h2 id="tasks">Tasks:&lt;/h2>
+&lt;ul>
+&lt;li>Get report of previous work report from Ulf&lt;/li>
+&lt;li>Add everyone to the GitHub repository.&lt;/li>
 &lt;/ul></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_10_12_2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_10_12_2023/</guid><description>&lt;h2 id="questions">Questions&lt;/h2>
 &lt;ol>
 &lt;li>Are we supposed to make a new project or build upon existing work done by the last team? From the report, we can study that they have taken a lot of the same steps we are working on.&lt;/li>
