@@ -93,4 +93,22 @@ Ans: The Federal Aviation Regulations (FARs) are rules prescribed by the Federal
 &lt;li>DataFirst Website: &lt;a href="">https://ckids-datafirst.github.io/website/editions/2023-fall/&lt;/a>&lt;/li>
 &lt;li>GitHub Austin incident: &lt;a href="">https://github.com/ckids-datafirst/2023-fall-aviation-safety/blob/main/content/data/news_articles.md&lt;/a>&lt;/li>
 &lt;li>GitHub Aviation Safety GitHub Repository: &lt;a href="">https://github.com/ckids-datafirst/2023-fall-aviation-safety&lt;/a>&lt;/li>
-&lt;/ol></description></item></channel></rss>
+&lt;/ol></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_10_19_2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_10_19_2023/</guid><description>&lt;h2 id="midterm-poster-feedback">Midterm Poster Feedback:&lt;/h2>
+&lt;ul>
+&lt;li>Add student and faculty advisor names&lt;/li>
+&lt;li>Just use ML in title&lt;/li>
+&lt;li>Add date of new york times publication&lt;/li>
+&lt;li>Add ‘NYT Article’ in the description of introduction&lt;/li>
+&lt;li>Spell out ASRS once in the poster&lt;/li>
+&lt;li>Replace ‘Runway Safety’ to ‘Runway Incursions’ to the title&lt;/li>
+&lt;li>Double check - what can be called an ‘Incursion’ - may need to change graphs&lt;/li>
+&lt;li>Use NTSB report as sample to make sure we do not classify something as runway incursion if it is not. Maybe try to match graphs and numbers from that presentation&lt;/li>
+&lt;li>In conclusion add ‘Calibrated/matched model against NTSB report of 2017’&lt;/li>
+&lt;/ul>
+&lt;h2 id="report">Report:&lt;/h2>
+&lt;ul>
+&lt;li>Add a couple of sample reports of ASRS for viewer understanding&lt;/li>
+&lt;li>Document how and where we got the dataset&lt;/li>
+&lt;li>We want to find the base level factors that are causing the incursions, for e.g., ‘human factor - sub categorize further and further’.&lt;/li>
+&lt;li>We are only required to present an analysis to the concerned industry specialists&lt;/li>
+&lt;/ul></description></item></channel></rss>
