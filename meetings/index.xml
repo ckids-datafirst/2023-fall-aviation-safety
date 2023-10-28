@@ -111,4 +111,14 @@ Ans: The Federal Aviation Regulations (FARs) are rules prescribed by the Federal
 &lt;li>Document how and where we got the dataset&lt;/li>
 &lt;li>We want to find the base level factors that are causing the incursions, for e.g., ‘human factor - sub categorize further and further’.&lt;/li>
 &lt;li>We are only required to present an analysis to the concerned industry specialists&lt;/li>
+&lt;/ul></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_10_27_2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_10_27_2023/</guid><description>&lt;ul>
+&lt;li>Have a report with written down objectives and some examples that can explain it.&lt;/li>
+&lt;li>List even things that may not be achievable&lt;/li>
+&lt;li>Create a interactive dashboard for several different common prompts&lt;/li>
+&lt;li>Identify seriousness of incursions&lt;/li>
+&lt;li>Create a correlation matrix between the different columns&lt;/li>
+&lt;li>Have data and work done publish on github**&lt;/li>
+&lt;li>Semi-supervised learning because we do not have millions of data.&lt;/li>
+&lt;li>Extract the abbreviations in data readable format using python script&lt;/li>
+&lt;li>Divide the team based on specialization and divide up tasks&lt;/li>
 &lt;/ul></description></item></channel></rss>
