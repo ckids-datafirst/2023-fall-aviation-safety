@@ -147,54 +147,17 @@ Wordcloud ?&lt;/p>
 &lt;li>Then train a NN model on this data.&lt;/li>
 &lt;li>Test it over a testing set and see if the model is figuring out the label correctly.&lt;/li>
 &lt;li>For human factors specifically, take out rows which have primary problems as HumanFactors. That is a dataset. Use topics created by previous work to further categorize data using narrative columns.&lt;/li>
-&lt;li>Steps to be taken:
-a. Data preprocessing: Convert to lower case
-b. Stop word removal : specific stops words for aviation ( like aircraft)
-c. lemmatization/ stemming/ Tokenization
-d. Expand contractions - Try using abbreviations pdf
-e. EDA : distribution of words/ phrases. Find common terms and patterns. Word clouds and plots
-f. Keyword extraction: find most significant words (tf-idf can be used)
-g. Topic modeling : LDA ( use previous work as base to get good topics)
-h. Runway incursion identification : use topics to find narratives which are runway incursions.
-i. Context analysis: analyze context for narrative. Factors, people involved, series of events lead to that incident&lt;/li>
-&lt;/ol>
-&lt;p>Collect data. Identify examples . what want to extract. 10-20 cases&lt;/p>
-&lt;p>Questions:
-Are we supposed to make a new project or build upon existing work done by the last team? From the report, we can study that they have taken a lot of the same steps we are working on.
-Can we get access to get their project?
-Do we need to make a poster or ppt? What is the Mid-term presentation format? Is poster necessary?
-Data Doubts:
-‘Weather Element/Visibility’ Numeric Value Meaning
-‘Ceiling’ value meaning and usefulness? 0- completely fogged.
-‘Flight Phase’ with multiple phases, eg: Parked; Landing; Landing, etc
-‘Operating Under FAR Part’ meaning?
-How should we handle the same columns for different aircrafts and persons?
-Need some direction for where to proceed.
-The dataset description says that this dataset cannot be used for actual implementation since it is not approved by the FAA.&lt;/p>
-&lt;p>Minutes of Meeting:&lt;/p>
-&lt;p>Upload data and other useful materials to github for the profs to review
-Focus of incursions
-Get better results than absurd or ridiculous
-Visibility in miles
-More the ceiling, the better (height of the clouds) - 0 ceiling: full fog
-Different stages the plane went through in Flight Phase
-FAR: Part 91 - general, part 121 - airlines, etc
-Power point presentation at ASRS meeting has 4 factors to identify the incursions
-&lt;a href="https://asrs.arc.nasa.gov/docs/general.pdf" target="_blank" rel="noopener">https://asrs.arc.nasa.gov/docs/general.pdf&lt;/a>
-&lt;a href="https://www.atsapsafety.org/" target="_blank" rel="noopener">https://www.atsapsafety.org/&lt;/a>
-&lt;a href="https://ckids-datafirst.github.io/website/editions/2023-fall/" target="_blank" rel="noopener">https://ckids-datafirst.github.io/website/editions/2023-fall/&lt;/a>
-Midterm presentation Friday, October 20, 5-7pm SAL 101 (not Wednesday)
-GitHub Austin incident: &lt;a href="https://github.com/ckids-datafirst/2023-fall-aviation-safety/blob/main/content/data/news_articles.md" target="_blank" rel="noopener">https://github.com/ckids-datafirst/2023-fall-aviation-safety/blob/main/content/data/news_articles.md&lt;/a>
-GitHub aviation safety: &lt;a href="https://github.com/ckids-datafirst/2023-fall-aviation-safety" target="_blank" rel="noopener">https://github.com/ckids-datafirst/2023-fall-aviation-safety&lt;/a>
-Check for fatigue keywords like overtime in the ASRS data
-You can get an award if you do a good job
-International conference for air safety investigation - annual conference
-The next ISASI conference is in Lisbon, Portugal
-Update the project website!!!&lt;/p>
-&lt;p>Ideas:&lt;/p>
-&lt;ol>
-&lt;li>Classifier model for human errors like confusion, fatigue, etc which can then be tackled by the FAA.&lt;/li>
-&lt;li>Incursion Predictor model that takes some features as inputs like weather, crew size, etc and gives the chance or probability of an incursion happening.&lt;/li>
+&lt;li>Steps to be taken:&lt;br>
+ a. Data preprocessing: Convert to lower case&lt;br>
+ b. Stop word removal : specific stops words for aviation ( like aircraft)&lt;br>
+ c. lemmatization/ stemming/ Tokenization&lt;br>
+ d. Expand contractions - Try using abbreviations pdf&lt;br>
+ e. EDA : distribution of words/ phrases. Find common terms and patterns. Word clouds and plots&lt;br>
+ f. Keyword extraction: find most significant words (tf-idf can be used)&lt;br>
+ g. Topic modeling : LDA ( use previous work as base to get good topics)&lt;br>
+ h. Runway incursion identification : use topics to find narratives which are runway incursions&lt;br>
+ i. Context analysis: analyze context for narrative. Factors, people involved, series of events lead to that incident&lt;/li>
+&lt;li>Collect data. Identify examples . what want to extract. 10-20 cases&lt;/li>
 &lt;/ol>
 &lt;p>Content needed for the website
 Approach
