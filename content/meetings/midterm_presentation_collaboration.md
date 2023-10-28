@@ -38,58 +38,20 @@ Wordcloud ?
 3. Then train a NN model on this data.
 4. Test it over a testing set and see if the model is figuring out the label correctly.
 5. For human factors specifically, take out rows which have primary problems as HumanFactors. That is a dataset. Use topics created by previous work to further categorize data using narrative columns. 
-6. Steps to be taken:
-  a. Data preprocessing: Convert to lower case
-  b. Stop word removal : specific stops words for aviation ( like aircraft)
-  c. lemmatization/ stemming/ Tokenization
-  d. Expand contractions - Try using abbreviations pdf 
-  e. EDA :  distribution of words/ phrases. Find common terms and patterns. Word clouds and plots
-  f. Keyword extraction: find most significant words (tf-idf can be used)
-  g. Topic modeling : LDA ( use previous work as base to get good topics)
-  h. Runway incursion identification : use topics to find narratives which are runway incursions.
-  i. Context analysis: analyze context for narrative. Factors, people involved, series of events lead to that incident 
+6. Steps to be taken:  
+&emsp;a. Data preprocessing: Convert to lower case  
+&emsp;b. Stop word removal : specific stops words for aviation ( like aircraft)  
+&emsp;c. lemmatization/ stemming/ Tokenization  
+&emsp;d. Expand contractions - Try using abbreviations pdf  
+&emsp;e. EDA :  distribution of words/ phrases. Find common terms and patterns. Word clouds and plots  
+&emsp;f. Keyword extraction: find most significant words (tf-idf can be used)  
+&emsp;g. Topic modeling : LDA ( use previous work as base to get good topics)  
+&emsp;h. Runway incursion identification : use topics to find narratives which are runway incursions  
+&emsp;i. Context analysis: analyze context for narrative. Factors, people involved, series of events lead to that incident  
+7. Collect data. Identify examples . what want to extract. 10-20 cases 
 
-Collect data. Identify examples . what want to extract. 10-20 cases 
 
 
-Questions:
-Are we supposed to make a new project or build upon existing work done by the last team? From the report, we can study that they have taken a lot of the same steps we are working on. 
-Can we get access to get their project?
-Do we need to make a poster or ppt? What is the Mid-term presentation format? Is poster necessary?
-Data Doubts:
-‘Weather Element/Visibility’ Numeric Value Meaning
-‘Ceiling’ value meaning and usefulness? 0- completely fogged.
-‘Flight Phase’ with multiple phases, eg: Parked; Landing; Landing, etc
-‘Operating Under FAR Part’ meaning?
-How should we handle the same columns for different aircrafts and persons?
-Need some direction for where to proceed.
-The dataset description says that this dataset cannot be used for actual implementation since it is not approved by the FAA.
-
-Minutes of Meeting:
-
-Upload data and other useful materials to github for the profs to review
-Focus of incursions 
-Get better results than absurd or ridiculous
-Visibility in miles
-More the ceiling, the better (height of the clouds) - 0 ceiling: full fog
-Different stages the plane went through in Flight Phase
-FAR: Part 91 - general, part 121 - airlines, etc
-Power point presentation at ASRS meeting has 4 factors to identify the incursions 
-https://asrs.arc.nasa.gov/docs/general.pdf
-https://www.atsapsafety.org/
-https://ckids-datafirst.github.io/website/editions/2023-fall/
-Midterm presentation Friday, October 20, 5-7pm SAL 101 (not Wednesday)
-GitHub Austin incident: https://github.com/ckids-datafirst/2023-fall-aviation-safety/blob/main/content/data/news_articles.md
-GitHub aviation safety: https://github.com/ckids-datafirst/2023-fall-aviation-safety
-Check for fatigue keywords like overtime in the ASRS data
-You can get an award if you do a good job
-International conference for air safety investigation - annual conference
-The next ISASI conference is in Lisbon, Portugal
-Update the project website!!!
-
-Ideas:
-1. Classifier model for human errors like confusion, fatigue, etc which can then be tackled by the FAA.
-2. Incursion Predictor model that takes some features as inputs like weather, crew size, etc and gives the chance or probability of an incursion happening.
 
 
 Content needed for the website
