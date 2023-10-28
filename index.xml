@@ -141,23 +141,23 @@ TF-IDF Vectorization
 Lemmatization using spaCy, NLTK
 Wordcloud ?&lt;/p>
 &lt;h2 id="proposed-model">PROPOSED MODEL&lt;/h2>
-&lt;p>If we treat data as supervised data and divide the data into train and test. Primary Problem can be treated as our label.
-Run correlation analysis and feature extraction algos like PCA, LDA to find relevant features from all attributes and word2vec/ Glove or tf-idf to make narrative and synopsis into features.
-Then train a NN model on this data.
-Test it over a testing set and see if the model is figuring out the label correctly.&lt;/p>
-&lt;p>For human factors specifically, take out rows which have primary problems as HumanFactors. That is a dataset. Use topics created by previous work to further categorize data using narrative columns.
-Steps to be taken:
-Data preprocessing:
-Convert to lower case
-Stop word removal : specific stops words for aviation ( like aircraft)
-lemmatization/ stemming/ Tokenization
-Expand contractions - Try using abbreviations pdf
-EDA : distribution of words/ phrases. Find common terms and patterns. Word clouds and plots
-Keyword extraction: find most significant words (tf-idf can be used)
-Topic modeling : LDA ( use previous work as base to get good topics)
-Runway incursion identification : use topics to find narratives which are runway incursions.
-Context analysis: analyze context for narrative. Factors, people involved, series of events lead to that incident
-ML model&lt;/p>
+&lt;ol>
+&lt;li>If we treat data as supervised data and divide the data into train and test. Primary Problem can be treated as our label.&lt;/li>
+&lt;li>Run correlation analysis and feature extraction algos like PCA, LDA to find relevant features from all attributes and word2vec/ Glove or tf-idf to make narrative and synopsis into features.&lt;/li>
+&lt;li>Then train a NN model on this data.&lt;/li>
+&lt;li>Test it over a testing set and see if the model is figuring out the label correctly.&lt;/li>
+&lt;li>For human factors specifically, take out rows which have primary problems as HumanFactors. That is a dataset. Use topics created by previous work to further categorize data using narrative columns.&lt;/li>
+&lt;li>Steps to be taken:
+a. Data preprocessing: Convert to lower case
+b. Stop word removal : specific stops words for aviation ( like aircraft)
+c. lemmatization/ stemming/ Tokenization
+d. Expand contractions - Try using abbreviations pdf
+e. EDA : distribution of words/ phrases. Find common terms and patterns. Word clouds and plots
+f. Keyword extraction: find most significant words (tf-idf can be used)
+g. Topic modeling : LDA ( use previous work as base to get good topics)
+h. Runway incursion identification : use topics to find narratives which are runway incursions.
+i. Context analysis: analyze context for narrative. Factors, people involved, series of events lead to that incident&lt;/li>
+&lt;/ol>
 &lt;p>Collect data. Identify examples . what want to extract. 10-20 cases&lt;/p>
 &lt;p>Questions:
 Are we supposed to make a new project or build upon existing work done by the last team? From the report, we can study that they have taken a lot of the same steps we are working on.
