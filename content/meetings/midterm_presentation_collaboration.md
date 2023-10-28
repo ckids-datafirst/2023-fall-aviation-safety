@@ -33,26 +33,21 @@ Wordcloud ?
 
 ## PROPOSED MODEL
 
-If we treat data as supervised data and divide the data into train and test. Primary Problem can be treated as our label.
-Run correlation analysis and feature extraction algos like PCA, LDA to find relevant features from all attributes and word2vec/ Glove or tf-idf to make narrative and synopsis into features. 
-Then train a NN model on this data.
-Test it over a testing set and see if the model is figuring out the label correctly.
-
-
-For human factors specifically, take out rows which have primary problems as HumanFactors. That is a dataset. Use topics created by previous work to further categorize data using narrative columns. 
-Steps to be taken:
-Data preprocessing:
-Convert to lower case
-Stop word removal : specific stops words for aviation ( like aircraft)
-lemmatization/ stemming/ Tokenization
-Expand contractions - Try using abbreviations pdf 
-EDA :  distribution of words/ phrases. Find common terms and patterns. Word clouds and plots
-Keyword extraction: find most significant words (tf-idf can be used)
-Topic modeling : LDA ( use previous work as base to get good topics)
-Runway incursion identification : use topics to find narratives which are runway incursions.
-Context analysis: analyze context for narrative. Factors, people involved, series of events lead to that incident
-ML model 
-
+1. If we treat data as supervised data and divide the data into train and test. Primary Problem can be treated as our label.
+2. Run correlation analysis and feature extraction algos like PCA, LDA to find relevant features from all attributes and word2vec/ Glove or tf-idf to make narrative and synopsis into features. 
+3. Then train a NN model on this data.
+4. Test it over a testing set and see if the model is figuring out the label correctly.
+5. For human factors specifically, take out rows which have primary problems as HumanFactors. That is a dataset. Use topics created by previous work to further categorize data using narrative columns. 
+6. Steps to be taken:
+  a. Data preprocessing: Convert to lower case
+  b. Stop word removal : specific stops words for aviation ( like aircraft)
+  c. lemmatization/ stemming/ Tokenization
+  d. Expand contractions - Try using abbreviations pdf 
+  e. EDA :  distribution of words/ phrases. Find common terms and patterns. Word clouds and plots
+  f. Keyword extraction: find most significant words (tf-idf can be used)
+  g. Topic modeling : LDA ( use previous work as base to get good topics)
+  h. Runway incursion identification : use topics to find narratives which are runway incursions.
+  i. Context analysis: analyze context for narrative. Factors, people involved, series of events lead to that incident 
 
 Collect data. Identify examples . what want to extract. 10-20 cases 
 
