@@ -213,7 +213,21 @@ By visually representing the distribution of reported cases across different sta
 Through an analysis of incident counts relative to environmental lighting conditions, we discovered that the majority of incidents occurred during daylight hours.
 The predominant factor contributing to the majority of incidents was identified as the human factor, with issues related to the aircraft following as the second most significant contributor.
 A map is styled with boundaries, colour-coded data, legends, and a title to provide a clear and visually appealing representation, enhancing our understanding of the distribution of incidents across states.
-By displaying a word cloud visualization based on the text contained in the narrative we could visually represent the frequency of words in the text, with larger words indicating higher frequency. This type of visualization is often used to gain insights into the most common terms or words in a given text or dataset. The common terms used were time, first officer, aircraft and so on.&lt;/p></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/minutes_of_meeting_10_12_2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/minutes_of_meeting_10_12_2023/</guid><description>&lt;h2 id="points-discussed-in-the-meeting">Points discussed in the meeting:&lt;/h2>
+By displaying a word cloud visualization based on the text contained in the narrative we could visually represent the frequency of words in the text, with larger words indicating higher frequency. This type of visualization is often used to gain insights into the most common terms or words in a given text or dataset. The common terms used were time, first officer, aircraft and so on.&lt;/p></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/minutes_of_meeting_10_12_2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/minutes_of_meeting_10_12_2023/</guid><description>&lt;h2 id="questions">Questions&lt;/h2>
+&lt;ol>
+&lt;li>Are we supposed to make a new project or build upon existing work done by the last team? From the report, we can study that they have taken a lot of the same steps we are working on.&lt;/li>
+&lt;li>Can we get access to get their project?&lt;/li>
+&lt;li>Do we need to make a poster or ppt? What is the Mid-term presentation format? Is poster necessary?&lt;/li>
+&lt;li>Data Doubts:&lt;br>
+ a. ‘Weather Element/Visibility’ Numeric Value Meaning&lt;br>
+ b. ‘Ceiling’ value meaning and usefulness? 0- completely fogged&lt;br>
+ c. ‘Flight Phase’ with multiple phases, eg: Parked; Landing; Landing, etc&lt;br>
+ d. ‘Operating Under FAR Part’ meaning?&lt;br>
+ e. How should we handle the same columns for different aircrafts and persons?&lt;br>
+ f. Need some direction for where to proceed&lt;br>
+ g. The dataset description says that this dataset cannot be used for actual implementation since it is not approved by the FAA.&lt;/li>
+&lt;/ol>
+&lt;h2 id="points-discussed-in-the-meeting">Points discussed in the meeting:&lt;/h2>
 &lt;ol>
 &lt;li>Upload data and other useful materials to the github repository for the professors to review&lt;/li>
 &lt;li>Focus of Incursions - A classifier model for human errors like confusion, fatigue, etc can be designed which can then be tackled by the Federal Aviation Administration. Hint: To classify the data, we can check for keywords like fatigue, extra hours etc. which are related to &amp;ldquo;overtime&amp;rdquo; in the Narrative column of the ASRS dataset.&lt;/li>
@@ -232,6 +246,11 @@ Ans: The Federal Aviation Regulations (FARs) are rules prescribed by the Federal
 &lt;li>Check out the power point presentation that was presented at an ASRS meeting and has 4 factors to identify the incursions. It was shared to us by Prof. Najmedin earlier in the emails.&lt;/li>
 &lt;li>The team can get an award if everyone does a good job and wins the International Society of Air Safety Investigators (ISASI) conference. This year it will be held at Lisbon, Portugal.&lt;/li>
 &lt;li>Update the project website with the current work done.&lt;/li>
+&lt;/ol>
+&lt;h2 id="ideas">Ideas:&lt;/h2>
+&lt;ol>
+&lt;li>Classifier model for human errors like confusion, fatigue, etc which can then be tackled by the FAA.&lt;/li>
+&lt;li>Incursion Predictor model that takes some features as inputs like weather, crew size, etc and gives the chance or probability of an incursion happening.&lt;/li>
 &lt;/ol>
 &lt;h2 id="important-links">Important Links:&lt;/h2>
 &lt;ol>
