@@ -3,7 +3,7 @@ what we can achieve
 (Everyone contributes atleast 3 points)
 
 
-## Aproaches to discuss with Ulf:
+## Aproaches to discuss with Prof. Ulf:
 (Based on objectives)
 
 ## Fix dataset to match NTSB 2017 report and replicate graphs:
