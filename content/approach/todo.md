@@ -2,6 +2,13 @@
 what we can achieve
 (Everyone contributes atleast 3 points)
 
+Chahita : These are the areas that I explored. Some of them are pretty heavy. We can brainstorm and reduce them into components on which we can work. 
+1. Pattern analysis on ASRS data to understand common factors such as specific airports r aircraft type or weather conditions or time of day other than human factors. We have human factor report from NTSB. How many of them can be fixed? And we know what latest technology should be used to reduce these human factors issue. We want to find which airports have installed or are using those technologies to prevent it. And if they are using it, did it decrease the number of incursions? Also can look at the budget to use these technologies.
+2. Can create a virtual ATC to handle the problem of shortage of ATC staff.
+3. Can create a model which when given an airport design and std airport design, can point out if it is following all rules and also if its complex or not or might cause issues?
+4. Creating a model that use cnn to Detect and Identify Airport Signs during low visibility.
+
+
 
 ## Aproaches to discuss with Prof. Ulf:
 (Based on objectives)
