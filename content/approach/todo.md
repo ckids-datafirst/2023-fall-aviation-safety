@@ -16,7 +16,7 @@ NTSB report work: (one suggestive approach : altitude 0-1000 ft for runway incur
 3. Contributing factors: Ravneet
 4. Top 20 Airports by year: Shreyas
 5. Top 15 concurrent anomalies: Likhit
-6. Bar graphs on ASRS intake and runway incursion: Atharv
+6. Bar graphs on ASRS intake and runway incursion: Atharva
 7. Runway incursion reported: Mino
 
 ## Interactive Dashbard that runs python scripts behind:
