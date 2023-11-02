@@ -8,7 +8,7 @@ what we can achieve
 
 ## Fix dataset to match NTSB 2017 report and replicate graphs:
 (Shreyas puts up full dataset)
-Chahita : put up collab scripts
+Chahita : put up collab scripts  - done
 
 NTSB report work: (one suggestive approach : altitude 0-1000 ft for runway incursion)
 1. NLP related : Chahita
