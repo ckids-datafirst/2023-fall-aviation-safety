@@ -20,6 +20,8 @@ Abhinav:
 
 Atharva:
 1. Convert the Narrative feature into different categories by NTSB and create new features out of them using one hot encoding. Easier to create a classification model or a report for the Narrative section.
+2. Make a report consisting of preventive measures and solutions for the most common human factors causing the incursions.
+3. Create a model that can predict the chance or probability of an incursion to happen given some live features like visibility, weather conditions, etc.
 
 ## Aproaches to discuss with Prof. Ulf:
 (Based on objectives)
