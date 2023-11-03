@@ -17,10 +17,10 @@ Abhinav:
 1. Finding correlation between the relevant attributes to create scenarios leading to runway incursions. For example, bad weather leads to more clouds and less visiblity. Use correlation matrix and other methods to create a pattern analysis: x, y, z together lead to w
 2. Create an easy to understand document for non-technical layman to read and understand the problem/cause/solution.
 4. Interactive Dashboard with the dataset:  
-&ensp; * Display sample report (for viewer to understand the data) - from a particular month (because we don't have date wise, only month wise)  
-&ensp; * State wise report count vs number of flights vs number of towered/untowered airports  
-&ensp; * Incursions taking place at 0 to x altitude filter - number  
-&ensp; * 
+&ensp;a. Display sample report (for viewer to understand the data) - from a particular month (because we don't have date wise, only month wise)  
+&ensp;b. State wise report count vs number of flights vs number of towered/untowered airports  
+&ensp;c. Incursions taking place at 0 to x altitude filter - number  
+&ensp;d. Flight phase when incursion takes place - including overlapping cases like taxi;parked and Landing;Taxi 
 
 Atharva:
 1. Convert the Narrative feature into different categories by NTSB and create new features out of them using one hot encoding. Easier to create a classification model or a report for the Narrative section.
