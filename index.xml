@@ -231,7 +231,62 @@ Ans: The Federal Aviation Regulations (FARs) are rules prescribed by the Federal
 &lt;li>Semi-supervised learning because we do not have millions of data.&lt;/li>
 &lt;li>Extract the abbreviations in data readable format using python script&lt;/li>
 &lt;li>Divide the team based on specialization and divide up tasks&lt;/li>
-&lt;/ul></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_11_02_23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_11_02_23/</guid><description>&lt;ul>
+&lt;/ul></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_10_31_23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_10_31_23/</guid><description>&lt;h2 id="copy-of-zoom-chat-from-the-meeting">Copy of Zoom Chat from the Meeting&lt;/h2>
+&lt;p>22:08:37 From Chahita Verma To Everyone:&lt;br>
+Other data&lt;br>
+22:09:31 From Chahita Verma To Everyone:&lt;br>
+FAA classification of runway incursion should be same as ours&lt;br>
+22:12:56 From Chahita Verma To Everyone:&lt;br>
+Ask Daniel about ASRS report and consistency between what they did and what reports we are generating&lt;br>
+22:14:08 From Chahita Verma To Everyone:&lt;br>
+Sub categorization on human factor data&lt;br>
+22:17:37 From Chahita Verma To Everyone:&lt;br>
+Do we want to replicate what that report did?&lt;br>
+22:20:33 From Chahita Verma To Everyone:&lt;br>
+Interactive dashboard for data.. to visualize in better way&lt;br>
+22:23:11 From Chahita Verma To Everyone:&lt;br>
+We want data on GitHub and mail Prof Ulf. So that he can see the data. And then ask him our questions of how to proceed on data.&lt;br>
+22:24:40 From Chahita Verma To Everyone:&lt;br>
+Put python scripts on github&lt;br>
+22:24:49 From Chahita Verma To Everyone:&lt;br>
+Of EDA&lt;br>
+22:27:30 From Chahita Verma To Everyone:&lt;br>
+Write objective points of what we can achieve&lt;br>
+22:32:11 From Mino Cha To Everyone:&lt;br>
+guys sorry im late forgot about the meeting&lt;br>
+22:32:24 From Chahita Verma To Everyone:&lt;br>
+1. ASRS/ FAA report. Understand it and then check how different it is from our output and what we can do to make it the same.&lt;br>
+2. We want data on GitHub and mail Prof Ulf. So that he can see the data. And set up objective and issues. Put python scripts on github of EDA&lt;br>
+3. Objective :&lt;br>
+a. What other data regarding aviation is available?&lt;br>
+b. Sub categorization on human factor data&lt;br>
+c. Do we want to replicate what that report did?&lt;br>
+d. Interactive dashboard for data.. to visualize in better way&lt;br>
+22:32:24 From Abhinav Gupta To Everyone:&lt;br>
+Its okay&lt;br>
+22:33:28 From Abhinav Gupta To Everyone:&lt;br>
+ASRS/NTSB not FAA&lt;br>
+22:35:52 From Chahita Verma To Everyone:&lt;br>
+Reacted to &amp;ldquo;ASRS/NTSB not FAA&amp;rdquo; with 👍&lt;br>
+22:46:18 From Chahita Verma To Everyone:&lt;br>
+NLP : Chahita&lt;br>
+22:47:48 From Chahita Verma To Everyone:&lt;br>
+Concurrent human factors:&lt;br>
+Contributing factors:&lt;br>
+Top 20 Airports by year:&lt;br>
+Top 15 concurrent anomalies:&lt;br>
+Bar graphs on ASRS intake and runway incursion:&lt;br>
+22:48:32 From Chahita Verma To Everyone:&lt;br>
+Concurrent human factors:&lt;br>
+Contributing factors:&lt;br>
+Top 20 Airports by year:&lt;br>
+Top 15 concurrent anomalies:&lt;br>
+Bar graphs on ASRS intake and runway incursion:&lt;br>
+Runway incursion reported:&lt;br>
+22:48:57 From Abhinav Gupta To Everyone:&lt;br>
+&lt;a href="https://github.com/ckids-datafirst/2023-fall-aviation-safety/blob/main/content/approach/todo.md" target="_blank" rel="noopener">https://github.com/ckids-datafirst/2023-fall-aviation-safety/blob/main/content/approach/todo.md&lt;/a>&lt;br>
+22:57:10 From Abhinav Gupta To Everyone:&lt;br>
+Any occurrence at an aerodrome involving the incorrect presence of an aircraft, vehicle or person on the protected area of a surface designated for the landing and take off of aircraft.&lt;/p></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_11_02_23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_11_02_23/</guid><description>&lt;ul>
 &lt;li>NTSB has already done some processing work on the narratives column to find out sub-categories.&lt;/li>
 &lt;li>Use the human factor categories as labels for our dataset converting binary columns for processing.&lt;/li>
 &lt;li>Use correlation matrix and other methods to create a pattern analysis: x, y, z together lead to w&lt;/li>
