@@ -1,0 +1,31 @@
+Replicate NTSB model for processing Narrative column
++
+Can also use supervised learning (categories predited in NTSB report) to categorize all the reports of incursions (Priority - 1)
+
+
+pick out data (narrative) of primary problem as human factor: output - categories
+
+Categories:
+Communication Breakdown
+Distraction
+Fatigue
+Human-Machine Interface
+Other / Unknown
+Physiological - Other
+Situational Awareness
+Time Pressure
+Training / Quallication
+Troubleshooting
+Workload
+Confusion
+
+data preprocessing : 
+stop words removal
+lower case
+abbrevations
+lemmatize/stemming
+
+algo : context knowledge - tf-idf, word vector, NER.. 
+
+classification
+
