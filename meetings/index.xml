@@ -121,4 +121,8 @@ Ans: The Federal Aviation Regulations (FARs) are rules prescribed by the Federal
 &lt;li>Semi-supervised learning because we do not have millions of data.&lt;/li>
 &lt;li>Extract the abbreviations in data readable format using python script&lt;/li>
 &lt;li>Divide the team based on specialization and divide up tasks&lt;/li>
+&lt;/ul></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_11_02_23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_11_02_23/</guid><description>&lt;ul>
+&lt;li>NTSB has already done some processing work on the narratives column to find out sub-categories.&lt;/li>
+&lt;li>Use the human factor categories as labels for our dataset converting binary columns for processing.&lt;/li>
+&lt;li>Use correlation matrix and other methods to create a pattern analysis: x, y, z together lead to w&lt;/li>
 &lt;/ul></description></item></channel></rss>
