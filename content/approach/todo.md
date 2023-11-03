@@ -13,6 +13,9 @@ Shreyas :
 2. Identify airlines with maximum safety incidents and launch an inquiry for these incidents
 3. Representation of incidents with respect to carrier, type of fault, type of aircraft etc on an interactive US map. [Example of interactive maps](https://www.tableau.com/learn/articles/interactive-map-and-data-visualization-examples) 
 
+Abhinav:
+1. Finding correlation between the relevant attributes to create scenarios leading to runway incursions. For example, bad weather leads to more clouds and less visiblity.
+2. Create an easy to understand document for non-technical layman to read and understand the problem/cause/solution.
 
 ## Aproaches to discuss with Prof. Ulf:
 (Based on objectives)
