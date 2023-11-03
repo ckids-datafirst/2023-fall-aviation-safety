@@ -8,6 +8,10 @@ Chahita : These are the areas that I explored. Some of them are pretty heavy. We
 3. Can create a model which when given an airport design and std airport design, can point out if it is following all rules and also if its complex or not or might cause issues?
 4. Creating a model that use cnn to Detect and Identify Airport Signs during low visibility.
 
+Shreyas :
+1. Data analysis for Aviation safety recommendations:  Create categories of technical failures extracted from report narratives and assign them to the airport where the incident happened. Let’s say after analysis we realize maximum braking-related incidents happen in JFK. It suggests that something is wrong with maintenance in that department.
+2. Identify airlines with maximum safety incidents and launch an inquiry for these incidents
+3. Representation of incidents with respect to carrier, type of fault, type of aircraft etc on an interactive US map. [Example of interactive maps](https://www.tableau.com/learn/articles/interactive-map-and-data-visualization-examples) 
 
 
 ## Aproaches to discuss with Prof. Ulf:
