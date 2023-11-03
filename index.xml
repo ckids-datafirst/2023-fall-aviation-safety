@@ -286,7 +286,7 @@ Runway incursion reported:&lt;br>
 22:48:57 From Abhinav Gupta To Everyone:&lt;br>
 &lt;a href="https://github.com/ckids-datafirst/2023-fall-aviation-safety/blob/main/content/approach/todo.md" target="_blank" rel="noopener">https://github.com/ckids-datafirst/2023-fall-aviation-safety/blob/main/content/approach/todo.md&lt;/a>&lt;br>
 22:57:10 From Abhinav Gupta To Everyone:&lt;br>
-Any occurrence at an aerodrome involving the incorrect presence of an aircraft, vehicle or person on the protected area of a surface designated for the landing and take off of aircraft.&lt;/p></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_11_02_2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_11_02_2023/</guid><description>&lt;ul>
+Any occurrence at an aerodrome involving the incorrect presence of an aircraft, vehicle or person on the protected area of a surface designated for the landing and take off of aircraft.&lt;/p></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_11_02_23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_11_02_23/</guid><description>&lt;ul>
 &lt;li>NTSB has already done some processing work on the narratives column to find out sub-categories.&lt;/li>
 &lt;li>Use the human factor categories as labels for our dataset converting binary columns for processing.&lt;/li>
 &lt;li>Use correlation matrix and other methods to create a pattern analysis: x, y, z together lead to w&lt;/li>
