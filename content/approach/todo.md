@@ -17,6 +17,9 @@ Abhinav:
 1. Finding correlation between the relevant attributes to create scenarios leading to runway incursions. For example, bad weather leads to more clouds and less visiblity.
 2. Create an easy to understand document for non-technical layman to read and understand the problem/cause/solution.
 
+Atharva:
+1. Convert the Narrative feature into different categories by NTSB and create new features out of them using one hot encoding. Easier to create a classification model or a report for the Narrative section.
+
 ## Aproaches to discuss with Prof. Ulf:
 (Based on objectives)
 
