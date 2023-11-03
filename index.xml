@@ -231,7 +231,7 @@ Ans: The Federal Aviation Regulations (FARs) are rules prescribed by the Federal
 &lt;li>Semi-supervised learning because we do not have millions of data.&lt;/li>
 &lt;li>Extract the abbreviations in data readable format using python script&lt;/li>
 &lt;li>Divide the team based on specialization and divide up tasks&lt;/li>
-&lt;/ul></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_10_31_23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_10_31_23/</guid><description>&lt;h2 id="copy-of-zoom-chat-from-the-meeting">Copy of Zoom Chat from the Meeting&lt;/h2>
+&lt;/ul></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_10_31_2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_10_31_2023/</guid><description>&lt;h2 id="copy-of-zoom-chat-from-the-meeting">Copy of Zoom Chat from the Meeting&lt;/h2>
 &lt;p>22:08:37 From Chahita Verma To Everyone:&lt;br>
 Other data&lt;br>
 22:09:31 From Chahita Verma To Everyone:&lt;br>
@@ -286,7 +286,7 @@ Runway incursion reported:&lt;br>
 22:48:57 From Abhinav Gupta To Everyone:&lt;br>
 &lt;a href="https://github.com/ckids-datafirst/2023-fall-aviation-safety/blob/main/content/approach/todo.md" target="_blank" rel="noopener">https://github.com/ckids-datafirst/2023-fall-aviation-safety/blob/main/content/approach/todo.md&lt;/a>&lt;br>
 22:57:10 From Abhinav Gupta To Everyone:&lt;br>
-Any occurrence at an aerodrome involving the incorrect presence of an aircraft, vehicle or person on the protected area of a surface designated for the landing and take off of aircraft.&lt;/p></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_11_02_23/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_11_02_23/</guid><description>&lt;ul>
+Any occurrence at an aerodrome involving the incorrect presence of an aircraft, vehicle or person on the protected area of a surface designated for the landing and take off of aircraft.&lt;/p></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_11_02_2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_11_02_2023/</guid><description>&lt;ul>
 &lt;li>NTSB has already done some processing work on the narratives column to find out sub-categories.&lt;/li>
 &lt;li>Use the human factor categories as labels for our dataset converting binary columns for processing.&lt;/li>
 &lt;li>Use correlation matrix and other methods to create a pattern analysis: x, y, z together lead to w&lt;/li>
