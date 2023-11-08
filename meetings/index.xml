@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Meetings | Aviation Safety Project</title><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/</link><atom:link href="https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/index.xml" rel="self" type="application/rss+xml"/><description>Meetings</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://ckids-datafirst.github.io/2023-fall-aviation-safety/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Meetings</title><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/</link></image><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_08_11_2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_08_11_2023/</guid><description>&lt;ul>
-&lt;li>Use layman language for the final presentation&lt;/li>
-&lt;li>Diagram to describe the flow of project&lt;/li>
-&lt;li>Don&amp;rsquo;t mention FAA anywhere&lt;/li>
-&lt;li>Use FAA definition of runway incursion to validate dataset (cite source)&lt;/li>
-&lt;li>Outcome - a report similar to NTSB presentation&lt;/li>
-&lt;/ul></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_09_26_2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_09_26_2023/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Meetings | Aviation Safety Project</title><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/</link><atom:link href="https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/index.xml" rel="self" type="application/rss+xml"/><description>Meetings</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://ckids-datafirst.github.io/2023-fall-aviation-safety/media/icon_hu5486d42984c30aaff6be99d37062b147_3155_512x512_fill_lanczos_center_3.png</url><title>Meetings</title><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/</link></image><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_09_26_2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_09_26_2023/</guid><description>&lt;ul>
 &lt;li>Try to use Pilot&amp;rsquo;s English for NLP approach in place of spoken and written English&lt;/li>
 &lt;li>Tenerife disaster 2* 747 collision documentary 2007&lt;/li>
 &lt;li>Aug 23rd 2023 NY times news paper article&lt;/li>
@@ -186,4 +180,10 @@ Any occurrence at an aerodrome involving the incorrect presence of an aircraft, 
 &lt;li>NTSB has already done some processing work on the narratives column to find out sub-categories.&lt;/li>
 &lt;li>Use the human factor categories as labels for our dataset converting binary columns for processing.&lt;/li>
 &lt;li>Use correlation matrix and other methods to create a pattern analysis: x, y, z together lead to w&lt;/li>
+&lt;/ul></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_11_08_2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_11_08_2023/</guid><description>&lt;ul>
+&lt;li>Use layman language for the final presentation&lt;/li>
+&lt;li>Diagram to describe the flow of project&lt;/li>
+&lt;li>Don&amp;rsquo;t mention FAA anywhere&lt;/li>
+&lt;li>Use FAA definition of runway incursion to validate dataset (cite source)&lt;/li>
+&lt;li>Outcome - a report similar to NTSB presentation&lt;/li>
 &lt;/ul></description></item></channel></rss>

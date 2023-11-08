@@ -108,13 +108,7 @@ CA, TX and FL have very high number of incursions.&lt;/p>
 &lt;/ul>
 &lt;h2 id="limitations-and-future-work">Limitations and Future Work&lt;/h2>
 &lt;p>To be updated as we progress&lt;/p>
-&lt;p>Discuss any limitations of the work to date, how these limitations could be addressed in future work. Discuss what lines of work are most promising given the understanding of the problem and the data gained throughout the project.&lt;/p></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_08_11_2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_08_11_2023/</guid><description>&lt;ul>
-&lt;li>Use layman language for the final presentation&lt;/li>
-&lt;li>Diagram to describe the flow of project&lt;/li>
-&lt;li>Don&amp;rsquo;t mention FAA anywhere&lt;/li>
-&lt;li>Use FAA definition of runway incursion to validate dataset (cite source)&lt;/li>
-&lt;li>Outcome - a report similar to NTSB presentation&lt;/li>
-&lt;/ul></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_09_26_2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_09_26_2023/</guid><description>&lt;ul>
+&lt;p>Discuss any limitations of the work to date, how these limitations could be addressed in future work. Discuss what lines of work are most promising given the understanding of the problem and the data gained throughout the project.&lt;/p></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_09_26_2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_09_26_2023/</guid><description>&lt;ul>
 &lt;li>Try to use Pilot&amp;rsquo;s English for NLP approach in place of spoken and written English&lt;/li>
 &lt;li>Tenerife disaster 2* 747 collision documentary 2007&lt;/li>
 &lt;li>Aug 23rd 2023 NY times news paper article&lt;/li>
@@ -296,6 +290,12 @@ Any occurrence at an aerodrome involving the incorrect presence of an aircraft, 
 &lt;li>NTSB has already done some processing work on the narratives column to find out sub-categories.&lt;/li>
 &lt;li>Use the human factor categories as labels for our dataset converting binary columns for processing.&lt;/li>
 &lt;li>Use correlation matrix and other methods to create a pattern analysis: x, y, z together lead to w&lt;/li>
+&lt;/ul></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_11_08_2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_11_08_2023/</guid><description>&lt;ul>
+&lt;li>Use layman language for the final presentation&lt;/li>
+&lt;li>Diagram to describe the flow of project&lt;/li>
+&lt;li>Don&amp;rsquo;t mention FAA anywhere&lt;/li>
+&lt;li>Use FAA definition of runway incursion to validate dataset (cite source)&lt;/li>
+&lt;li>Outcome - a report similar to NTSB presentation&lt;/li>
 &lt;/ul></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/midterm/midterm_presentation_collaboration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/midterm/midterm_presentation_collaboration/</guid><description>&lt;h2 id="requirements">Requirements:&lt;/h2>
 &lt;ol>
 &lt;li>Introduction/Motivation (why should people be interested in this project?)&lt;/li>
