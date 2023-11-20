@@ -296,6 +296,20 @@ Any occurrence at an aerodrome involving the incorrect presence of an aircraft, 
 &lt;li>Don&amp;rsquo;t mention FAA anywhere&lt;/li>
 &lt;li>Use FAA definition of runway incursion to validate dataset (cite source)&lt;/li>
 &lt;li>Outcome - a report similar to NTSB presentation&lt;/li>
+&lt;/ul></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_11_19_2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/meetings/mom_11_19_2023/</guid><description>&lt;p>List of Visualization Graphs for the Final Presentation:&lt;/p>
+&lt;ul>
+&lt;li>Screenshot of 1-2 reports for people to understand - Abhinav&lt;/li>
+&lt;li>Data pre-processing steps via graphs - Abhinav&lt;/li>
+&lt;li>Number of Incursion Reports vs Year wise ASRS Reports Intake Count✅&lt;/li>
+&lt;li>Number of Incursion Reports vs Year wise ASRS Reports Intake Percentage✅&lt;/li>
+&lt;li>Primary Problems Percentage Bar Graph which points to &amp;raquo; - Ravneet&lt;/li>
+&lt;li>Sub-division of Primary Problems (Top 3-4) to further sub categories based on BERT Topic output - Ravneet&lt;/li>
+&lt;li>Focusing on Human Factors - Number of Reports for each sub-divided human factor after clustering algo output of topics (depends on output)&lt;/li>
+&lt;li>(optional) Number of Reports for each state as a percentage of total flights for each state - Atharva&lt;/li>
+&lt;li>Inter-topic relation from BERT model&lt;/li>
+&lt;/ul>
+&lt;ul>
+&lt;li>Next Meeting - Thursday (23rd Nov)&lt;/li>
 &lt;/ul></description></item><item><title/><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/midterm/midterm_presentation_collaboration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/midterm/midterm_presentation_collaboration/</guid><description>&lt;h2 id="requirements">Requirements:&lt;/h2>
 &lt;ol>
 &lt;li>Introduction/Motivation (why should people be interested in this project?)&lt;/li>
