@@ -45,11 +45,10 @@ Discuss the evaluation metrics used to assess model performance, and justify tho
 &lt;h2 id="data-challenges">Data Challenges&lt;/h2>
 &lt;p>The most challenging part of the dataset is the narrative. The narrative is a description of the incident from a reporter/observer’s point of view. All the reports available in the dataset are not written in aviation English. For instance, airplane, aircraft and flight may essentially point towards the same object but are written in diverse ways. Similarly, the runway is often time written as rwy. All the reports are not written in a professional manner, for instance in a report pilot makes an attempt to humor by mentioning “spilling coffee in the cockpit”. This information is futile as far as the algorithm is concerned.&lt;/p>
 &lt;h2 id="data-visualizations-and-highlights">Data Visualizations and Highlights&lt;/h2>
-&lt;p>Including a visualization is a simple way to show something interesting about the data. Perhaps the visualizations could simply highlight the size, distribution, and other simple statistical characteristics of the data.&lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://ckids-datafirst.github.io/2023-fall-aviation-safety/content/images/noofcases.png" alt="Number of incidents regarding light" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://github.com/ckids-datafirst/2023-fall-aviation-safety/blob/5e7248c6b2da95e594196c9017384e4a9d365ef8/content/images/noofincidents.png" alt="Number of incidents regarding light" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>
@@ -62,6 +61,12 @@ Discuss the evaluation metrics used to assess model performance, and justify tho
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img src="https://ckids-datafirst.github.io/2023-fall-aviation-safety/content/images/noofincidents.png" alt="Top 50 airports with most cases" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://ckids-datafirst.github.io/2023-fall-aviation-safety/content/images/contributing-factors.png" alt="Contributing factors" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Problem and Requirements</title><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/problem-statement/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/problem-statement/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
 &lt;p>&lt;a href="https://www.nytimes.com/2023/10/11/business/air-traffic-control-austin-airport-fedex-southwest.html" target="_blank" rel="noopener">‘Air disasters are rare in the US, close calls are a different story’&lt;/a> The New York Times (Front Page) - 23rd August 2023.&lt;/p>
