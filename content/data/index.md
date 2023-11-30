@@ -29,10 +29,10 @@ The most challenging part of the dataset is the narrative. The narrative is a de
 
 ## Data Visualizations and Highlights
 
-Including a visualization is a simple way to show something interesting about the data.  Perhaps the visualizations could simply highlight the size, distribution, and other simple statistical characteristics of the data.
-
-![Number of incidents regarding light](/content/images/noofcases.png)
+![Number of incidents regarding light](https://github.com/ckids-datafirst/2023-fall-aviation-safety/blob/5e7248c6b2da95e594196c9017384e4a9d365ef8/content/images/noofincidents.png)
 
 ![Number of primary problems](/content/images/numberofproblems.png)
 
 ![Top 50 airports with most cases](/content/images/noofincidents.png)
+
+![Contributing factors](/content/images/contributing-factors.png)
