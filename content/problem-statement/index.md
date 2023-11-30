@@ -7,8 +7,6 @@ share: false
 ---
 
 ## Introduction
-
-[‘Air disasters are rare in the US, close calls are a different story’](https://www.nytimes.com/2023/10/11/business/air-traffic-control-austin-airport-fedex-southwest.html) The New York Times (Front Page) - 23rd August 2023.
 1. The New York Times article [‘Air disasters are rare in the US, close calls are a different story’](https://www.nytimes.com/2023/10/11/business/air-traffic-control-austin-airport-fedex-southwest.html) highlights a trend of incursions and near misses in the United States aviation industry. 
 While there haven't been major plane crashes for over a decade, close calls involving commercial airlines are occurring frequently, often due to human error and a shortage of air traffic controllers.
 
