@@ -48,7 +48,7 @@ Discuss the evaluation metrics used to assess model performance, and justify tho
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://github.com/ckids-datafirst/2023-fall-aviation-safety/blob/5e7248c6b2da95e594196c9017384e4a9d365ef8/content/images/noofincidents.png" alt="Number of incidents regarding light" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://ckids-datafirst.github.io/2023-fall-aviation-safety/content/images/noofcases.png" alt="Number of incidents regarding light" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>
@@ -67,6 +67,12 @@ Discuss the evaluation metrics used to assess model performance, and justify tho
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img src="https://ckids-datafirst.github.io/2023-fall-aviation-safety/content/images/contributing-factors.png" alt="Contributing factors" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://ckids-datafirst.github.io/2023-fall-aviation-safety/content/images/heatmap.png" alt="Heatmap" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Problem and Requirements</title><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/problem-statement/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/problem-statement/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
 &lt;p>&lt;a href="https://www.nytimes.com/2023/10/11/business/air-traffic-control-austin-airport-fedex-southwest.html" target="_blank" rel="noopener">‘Air disasters are rare in the US, close calls are a different story’&lt;/a> The New York Times (Front Page) - 23rd August 2023.&lt;/p>
