@@ -14,20 +14,20 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://ckids-datafirst.github.io/2023-fall-aviation-safety/content/images/numberofproblems.png" alt="Number of primary problems" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/ckids-datafirst/2023-fall-aviation-safety/main/content/images/numberofproblems.png" alt="Number of primary problems" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://ckids-datafirst.github.io/2023-fall-aviation-safety/content/images/noofincidents.png" alt="Top 50 airports with most cases" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/ckids-datafirst/2023-fall-aviation-safety/main/content/images/noofcases.png" alt="Top 50 airports with most cases" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;h2 id="model-development">Model Development&lt;/h2>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://ckids-datafirst.github.io/2023-fall-aviation-safety/content/images/methodarchdiagram.png" alt="Method Architecture" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/ckids-datafirst/2023-fall-aviation-safety/main/content/images/methodarchdiagram.png" alt="Method Architecture" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Data Assessment</title><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/data/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/data/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
 &lt;p>The dataset used in this project is sourced from the Aviation safety reporting system. The original ASRS dataset has more than 300 thousand rows of information from the year 1988. Since we are specifically interested in runway incursion we applied a filter while downloading the dataset and received a subset of 46,000 rows and 126 columns. The rudimentary goal is to analyse this dataset to identify fracture points in safety regulations.&lt;/p>
@@ -43,31 +43,25 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://ckids-datafirst.github.io/2023-fall-aviation-safety/content/images/noofcases.png" alt="Number of incidents regarding light" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/ckids-datafirst/2023-fall-aviation-safety/main/content/images/noofincidents.png" alt="Number of incidents regarding light" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://ckids-datafirst.github.io/2023-fall-aviation-safety/content/images/numberofproblems.png" alt="Number of primary problems" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/ckids-datafirst/2023-fall-aviation-safety/main/content/images/numberofproblems.png" alt="Number of primary problems" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://ckids-datafirst.github.io/2023-fall-aviation-safety/content/images/noofincidents.png" alt="Top 50 airports with most cases" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/ckids-datafirst/2023-fall-aviation-safety/main/content/images/noofcases.png" alt="Top 50 airports with most cases" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://ckids-datafirst.github.io/2023-fall-aviation-safety/content/images/contributing-factors.png" alt="Contributing factors" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://ckids-datafirst.github.io/2023-fall-aviation-safety/content/images/heatmap.png" alt="Heatmap" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/ckids-datafirst/2023-fall-aviation-safety/main/content/images/heatmap.png" alt="Heatmap" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Problem and Requirements</title><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/problem-statement/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/problem-statement/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
 &lt;p>&lt;a href="https://www.nytimes.com/2023/10/11/business/air-traffic-control-austin-airport-fedex-southwest.html" target="_blank" rel="noopener">‘Air disasters are rare in the US, close calls are a different story’&lt;/a> The New York Times (Front Page) - 23rd August 2023.&lt;/p>
