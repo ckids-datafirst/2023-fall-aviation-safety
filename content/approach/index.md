@@ -22,13 +22,10 @@ We used python libraries pandas, numpy and matplotlib for exploratory data analy
 
 ![Number of incidents regarding light](https://raw.githubusercontent.com/ckids-datafirst/2023-fall-aviation-safety/main/content/images/noofincidents.png)
 
-![Number of primary problems](/content/images/numberofproblems.png)
+![Number of primary problems](https://raw.githubusercontent.com/ckids-datafirst/2023-fall-aviation-safety/main/content/images/numberofproblems.png)
 
-![Top 50 airports with most cases](/content/images/noofincidents.png)
+![Top 50 airports with most cases](https://raw.githubusercontent.com/ckids-datafirst/2023-fall-aviation-safety/main/content/images/noofcases.png)
 
 ## Model Development
 
-![Method Architecture](/content/images/methodarchdiagram.png)
-
-
-
+![Method Architecture](https://raw.githubusercontent.com/ckids-datafirst/2023-fall-aviation-safety/main/content/images/methodarchdiagram.png)

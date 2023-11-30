@@ -29,12 +29,10 @@ The most challenging part of the dataset is the narrative. The narrative is a de
 
 ## Data Visualizations and Highlights
 
-![Number of incidents regarding light](/content/images/noofcases.png)
+![Number of incidents regarding light](https://raw.githubusercontent.com/ckids-datafirst/2023-fall-aviation-safety/main/content/images/noofincidents.png)
 
-![Number of primary problems](/content/images/numberofproblems.png)
+![Number of primary problems](https://raw.githubusercontent.com/ckids-datafirst/2023-fall-aviation-safety/main/content/images/numberofproblems.png)
 
-![Top 50 airports with most cases](/content/images/noofincidents.png)
+![Top 50 airports with most cases](https://raw.githubusercontent.com/ckids-datafirst/2023-fall-aviation-safety/main/content/images/noofcases.png)
 
-![Contributing factors](/content/images/contributing-factors.png)
-
-![Heatmap](/content/images/heatmap.png)
+![Heatmap](https://raw.githubusercontent.com/ckids-datafirst/2023-fall-aviation-safety/main/content/images/heatmap.png)
