@@ -64,9 +64,22 @@ Discuss the evaluation metrics used to assess model performance, and justify tho
 &lt;div class="w-100" >&lt;img src="https://ckids-datafirst.github.io/2023-fall-aviation-safety/content/images/noofincidents.png" alt="Top 50 airports with most cases" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Problem and Requirements</title><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/problem-statement/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/problem-statement/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>&lt;a href="https://www.nytimes.com/2023/10/11/business/air-traffic-control-austin-airport-fedex-southwest.html" target="_blank" rel="noopener">‘Air disasters are rare in the US, close calls are a different story’&lt;/a> The New York Times (Front Page) - 23rd August 2023.
-The article highlights a concerning trend of safety incidents and near misses in the United States&amp;rsquo; aviation industry. While there haven&amp;rsquo;t been major plane crashes for over a decade, close calls involving commercial airlines are occurring frequently, often due to human error and a shortage of air traffic controllers.
-The number of near misses has doubled in the last decade, raising questions about the safety of the U.S. air travel system. Direct action is needed to improve the situation. NASA maintains a database - ‘Aviation Safety Reporting System’ - that records incident reports of all runway/taxiway incursions since 1988. A treasure trove of untapped potential.&lt;/p>
+&lt;p>&lt;a href="https://www.nytimes.com/2023/10/11/business/air-traffic-control-austin-airport-fedex-southwest.html" target="_blank" rel="noopener">‘Air disasters are rare in the US, close calls are a different story’&lt;/a> The New York Times (Front Page) - 23rd August 2023.&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>The New York Times article &lt;a href="https://www.nytimes.com/2023/10/11/business/air-traffic-control-austin-airport-fedex-southwest.html" target="_blank" rel="noopener">‘Air disasters are rare in the US, close calls are a different story’&lt;/a> highlights a trend of incursions and near misses in the United States aviation industry.
+While there haven&amp;rsquo;t been major plane crashes for over a decade, close calls involving commercial airlines are occurring frequently, often due to human error and a shortage of air traffic controllers.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The number of near misses has doubled in the last decade, raising questions about the safety of the U.S. air travel system.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The concerned governmental authorities are analysing this issue currently.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Through this project, our team plans to take direct action and contribute as researchers on how to improve the situation of runway incursions.&lt;/p>
+&lt;/li>
+&lt;/ol>
 &lt;h2 id="motivation">Motivation&lt;/h2>
 &lt;p>The United States alone has an annual passenger traffic of 666 million passengers (in 2021). In recent years aviation safety reporting system has received a record number of incident reports which points to a major question whether the safety standards have been degrading or the number of reports has been increasing. Whatever may be the case there are millions of passengers who travel in these aircraft and therefore it becomes necessary to find out the root causes of these faults.&lt;/p>
 &lt;h2 id="problem-for-the-semester">Problem for the Semester&lt;/h2>
