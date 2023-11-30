@@ -8,7 +8,7 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://ckids-datafirst.github.io/2023-fall-aviation-safety/content/images/noofcases.png" alt="Number of incidents regarding light" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/ckids-datafirst/2023-fall-aviation-safety/main/content/images/noofincidents.png" alt="Number of incidents regarding light" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>
@@ -29,12 +29,7 @@
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img src="https://ckids-datafirst.github.io/2023-fall-aviation-safety/content/images/methodarchdiagram.png" alt="Method Architecture" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;/p>
-&lt;p>To be updated as we progress&lt;/p>
-&lt;p>Describe the algorithms, methodology, and architectures used to generate models. Discuss how models were generated, seeded, and improved. Show the libraries and frameworks used for model development, as well as the rationale behind those choices.&lt;/p>
-&lt;h2 id="model-evaluation">Model Evaluation&lt;/h2>
-&lt;p>To be updated as we progress
-Discuss the evaluation metrics used to assess model performance, and justify those choices based on the problem that the project is addressing. Describe the evaluation techniques used, such as cross-validation, and how undesirable model behaviors, such as overfitting, were avoided.&lt;/p></description></item><item><title>Data Assessment</title><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/data/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/data/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;/p></description></item><item><title>Data Assessment</title><link>https://ckids-datafirst.github.io/2023-fall-aviation-safety/data/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://ckids-datafirst.github.io/2023-fall-aviation-safety/data/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
 &lt;p>The dataset used in this project is sourced from the Aviation safety reporting system. The original ASRS dataset has more than 300 thousand rows of information from the year 1988. Since we are specifically interested in runway incursion we applied a filter while downloading the dataset and received a subset of 46,000 rows and 126 columns. The rudimentary goal is to analyse this dataset to identify fracture points in safety regulations.&lt;/p>
 &lt;h2 id="data-overview-and-examples">Data Overview and Examples&lt;/h2>
 &lt;p>The ASRS data is anonymised reports collected from individuals working in the aviation sector. The dataset contains the credentials of the reporting person (excluding personally identifiable content), time and date of the incident, name of the airport, state, altitude, visibility, narrative etc. We intend to use a subset of the 127 features already present with us. The reason is that there are multiple features with a negligible amount of data making analysis unfavourable. Therefore we intend to drop those features completely before further processing. ASRS is the largest data repository available for aviation safety incidents therefore any other dataset which is publicly available may either be a subset of ASRS or might not be reliable since ASRS is a government-backed dataset.&lt;/p>
