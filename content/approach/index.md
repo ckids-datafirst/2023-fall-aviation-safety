@@ -20,7 +20,7 @@ The data preprocessing involved the following tasks conversion of all characters
 
 We used python libraries pandas, numpy and matplotlib for exploratory data analysis of the ASRS dataset.
 
-![Number of incidents regarding light](/content/images/noofcases.png)
+![Number of incidents regarding light](https://raw.githubusercontent.com/ckids-datafirst/2023-fall-aviation-safety/main/content/images/noofincidents.png)
 
 ![Number of primary problems](/content/images/numberofproblems.png)
 
@@ -31,11 +31,4 @@ We used python libraries pandas, numpy and matplotlib for exploratory data analy
 ![Method Architecture](/content/images/methodarchdiagram.png)
 
 
-To be updated as we progress
 
-Describe the algorithms, methodology, and architectures used to generate models.  Discuss how models were generated, seeded, and improved.  Show the libraries and frameworks used for model development, as well as the rationale behind those choices.
-
-## Model Evaluation
-
-To be updated as we progress
-Discuss the evaluation metrics used to assess model performance, and justify those choices based on the problem that the project is addressing. Describe the evaluation techniques used, such as cross-validation, and how undesirable model behaviors, such as overfitting, were avoided.
