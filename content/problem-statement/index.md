@@ -9,8 +9,14 @@ share: false
 ## Introduction
 
 [‘Air disasters are rare in the US, close calls are a different story’](https://www.nytimes.com/2023/10/11/business/air-traffic-control-austin-airport-fedex-southwest.html) The New York Times (Front Page) - 23rd August 2023.
-The article highlights a concerning trend of safety incidents and near misses in the United States' aviation industry. While there haven't been major plane crashes for over a decade, close calls involving commercial airlines are occurring frequently, often due to human error and a shortage of air traffic controllers.
-The number of near misses has doubled in the last decade, raising questions about the safety of the U.S. air travel system. Direct action is needed to improve the situation. NASA maintains a database - ‘Aviation Safety Reporting System’ - that records incident reports of all runway/taxiway incursions since 1988. A treasure trove of untapped potential.
+1. The New York Times article [‘Air disasters are rare in the US, close calls are a different story’](https://www.nytimes.com/2023/10/11/business/air-traffic-control-austin-airport-fedex-southwest.html) highlights a trend of incursions and near misses in the United States aviation industry. 
+While there haven't been major plane crashes for over a decade, close calls involving commercial airlines are occurring frequently, often due to human error and a shortage of air traffic controllers.
+
+2. The number of near misses has doubled in the last decade, raising questions about the safety of the U.S. air travel system.
+3. The concerned governmental authorities are analysing this issue currently.
+
+4. Through this project, our team plans to take direct action and contribute as researchers on how to improve the situation of runway incursions.
+
 
 ## Motivation
 
