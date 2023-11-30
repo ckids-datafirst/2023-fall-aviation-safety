@@ -44,7 +44,7 @@ If we treat the data as supervised data and divide it into train and test. The p
 
 The end user for this system could be the Federal Aviation Administration, this system could help them in policy framing. After certain modifications, airlines could use it internally for incident report generation and problem-solving.
 
-![Use case diagram](/content/images/usecasediagram.png)
+![Use case diagram](https://raw.githubusercontent.com/ckids-datafirst/2023-fall-aviation-safety/main/content/images/usecasediagram.png)
 
 ## Desired Outcomes and Benefits
 
